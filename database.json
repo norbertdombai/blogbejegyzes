@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "title": "új bejegyzés",
+      "description": "új bejegyzés leírás",
+      "userid": "100",
+      "lajk": "1",
+      "id": "PIkJKsE"
+    },
+    {
+      "title": "új bejegyzés",
+      "description": "új bejegyzés leírás",
+      "userid": "100",
+      "lajk": "1",
+      "id": "d_nZHKn"
+    },
+    {
+      "title": "új bejegyzés",
+      "description": "új bejegyzés leírás",
+      "userid": "100",
+      "lajk": "1",
+      "id": "Tp8cSPk"
+    },
+    {
+      "title": "új bejegyzés",
+      "description": "új bejegyzés leírás",
+      "userid": "100",
+      "lajk": "1",
+      "id": "vBcXJ5E"
+    }
+  ],
+  "user": [
+    {
+      "userid": "100",
+      "name": "Vincent van Gogh"
+    },
+    {
+      "userid": "101",
+      "nev": "Paul Gauguin"
+    },
+    {
+      "userid": "102",
+      "nev": "Edgar Degas"
+    }
+  ]
+}
